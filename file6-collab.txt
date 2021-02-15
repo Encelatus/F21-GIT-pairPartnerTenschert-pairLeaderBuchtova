@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello Austria, it's Vendula.
+=======
+Hello Austria it's Samuel.
+>>>>>>> d78bd09eac0f9b978292756ae33793717e678a30
